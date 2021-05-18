@@ -1,0 +1,7 @@
+﻿  FinalGame.cpp
+F:\School\Y1\Sem2\CIS244\FredleyFinalGame\FinalGame\FinalGame.cpp(63,22): warning C4018: '<': signed/unsigned mismatch
+F:\School\Y1\Sem2\CIS244\FredleyFinalGame\FinalGame\FinalGame.cpp(89,22): warning C4018: '<': signed/unsigned mismatch
+F:\School\Y1\Sem2\CIS244\FredleyFinalGame\FinalGame\FinalGame.cpp(159,20): warning C4018: '<': signed/unsigned mismatch
+F:\School\Y1\Sem2\CIS244\FredleyFinalGame\FinalGame\FinalGame.cpp(211,21): warning C4018: '<': signed/unsigned mismatch
+F:\School\Y1\Sem2\CIS244\FredleyFinalGame\FinalGame\FinalGame.cpp(221,21): warning C4018: '<': signed/unsigned mismatch
+  FinalGame.vcxproj -> F:\School\Y1\Sem2\CIS244\FredleyFinalGame\Debug\FinalGame.exe
